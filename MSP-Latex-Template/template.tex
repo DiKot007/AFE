@@ -1,4 +1,10 @@
 \documentclass{WileyMSP-template}
+%%%% - удалить блок ниже перед отправкой
+\usepackage[T1,T2A]{fontenc} % поддержка кириллических символов
+\usepackage[utf8]{inputenc} % поддержка кодировки utf8
+\usepackage[english,russian]{babel}  % Включаем пакет для поддержки русского языка (правильно ставятся переносы строк)  
+\hbadness=2000 % отключили warning со значением менее 2000 (макс. 10000)
+%%%% - удалить блок выше перед отправкой
 
 \begin{document}
 
@@ -7,7 +13,8 @@
 \rhead{\includegraphics[width=2.5cm]{vch-logo.png}}
 
 
-\title{Numerical solution for antiferroelectrics}
+\title{
+	 Гистеризис поляризации поликристаллического антиферроэлектрика с наведенной кристаллографической анизотропией}
 
 \maketitle
 
@@ -15,7 +22,7 @@
 
 % Author: Please give full first and last names for authors and include * after the name of all corresponding authors
 
-\author{Author One}
+\author{Konstnatin V. Nefedev,}
 \author{Author Two}
 \author{Author Three*}
 
@@ -27,17 +34,14 @@
 
 
 
-
-
-
 % Affiliations: Please provide adacemic titles (Prof. or Dr.) for all authors where applicable, and include an institutional email address for all corresponding authors
 \begin{affiliations}
 A. N. Author, A. N. O. Author\\
 Address\\
-Email Address:
+Email Address: nefedev.kv@dvfu.ru
 
 A. N. O. Author\\
-Address
+Address Far Eastern Fedral University
 
 \end{affiliations}
 
@@ -63,6 +67,8 @@ Please insert your abstract here
 
 
 \section{First Section}
+
+размер одноменности для антиферроэлектрика
 
 
 \subsection{First Subsection}
