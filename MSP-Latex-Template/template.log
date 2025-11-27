@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.2.26)  26 NOV 2025 18:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.11.27)  27 NOV 2025 14:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,9 +8,9 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (WileyMSP-template.cls
 Document Class: WileyMSP-template 
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count187
@@ -25,7 +25,8 @@ File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.
+sty
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \CenteringLeftskip=\skip50
 \RaggedLeftLeftskip=\skip51
@@ -42,33 +43,41 @@ Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \RaggedRightParindent=\skip62
 \JustifyingParindent=\skip63
 )
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.
+sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.st
+y
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.
+sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
-fg
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graph
+ics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdfte
+x.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen141
 \Gin@req@width=\dimen142
-) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+)
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.st
+y
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.s
+ty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen143
 \captionmargin=\dimen144
@@ -83,13 +92,13 @@ Package caption Info: Standard document class detected.
 \c@caption@flags=\count195
 \c@continuedfloat=\count196
 )
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.
+sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count197
@@ -105,8 +114,10 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layoutvoffset=\dimen158
 \Gm@dimlist=\toks18
 
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.
+cfg))
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.
+sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 
 \f@nch@headwidth=\skip64
@@ -125,18 +136,19 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthR=\skip77
 \@temptokenb=\toks19
 )
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/gensymb\gensymb.sty
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/gensymb\gensymb.st
+y
 Package: gensymb 2022/10/17 v1.0.2 (KJH)
 ))
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2aenc.def
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2aenc.de
+f
 File: t2aenc.def 2023/11/07 v1.0k Cyrillic encoding definition file
 Now handling font encoding T2A ...
 ... processing UTF-8 mapping file for font encoding T2A
-
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/base\t2aenc.dfu
+ (C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/base\t2aenc.dfu
 File: t2aenc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
@@ -340,33 +352,34 @@ File: t2aenc.dfu 2022/06/07 v1.3c UTF-8 support
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
 12.
 
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmr.fd
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks20
 \inpenc@posthook=\toks21
-)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+) (C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.st
+y
 Package: babel 2024/01/07 v24.1 The Babel package
 \babel@savecnt=\count266
 \U@D=\dimen159
 \l@unhyphenated=\language79
 
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.d
+ef)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count267
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
-df
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\engl
+ish.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
@@ -375,25 +388,25 @@ Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 (babel)             (\language73). Reported on input line 108.
 )
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/babel-russian\russianb.
-ldf
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/babel-russian\russ
+ianb.ldf
 File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
 Language: russian 2020/09/09 1.3k Russian support for the Babel system
 Package babel Info: Making " an active character on input line 124.
 Package babel Info: Default for \cyrdash is provided on input line 163.
 ))
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/ru\babel
--russian.tex
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/ru\
+babel-russian.tex
 Package babel Info: Importing font and identification data for russian
 (babel)             from babel-ru.ini. Reported on input line 11.
 )
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel
--english.tex
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\
+babel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
 )
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
-tex.def
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backen
+d-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count268
 \l__pdf_internal_box=\box51
@@ -424,8 +437,8 @@ LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
-ii
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-p
+df.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count269
 \scratchdimen=\dimen160
@@ -439,30 +452,35 @@ ii
 \makeMPintoPDFobject=\count274
 \everyMPtoPDFconversion=\toks23
 )
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
-ase.sty
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epsto
+pdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
-ty
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwar
+err.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+)
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
 Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
 
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
-keys.sty
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvd
+efinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 ))
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoption
+s.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.
+sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkey
+s.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ))
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
-.sty
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdfte
+xcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -476,8 +494,8 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 504.
 
-(C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
-fg
+(C:\Users\Диана\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-
+sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
@@ -529,25 +547,25 @@ Package gensymb Warning: Not defining \micro.
 
 LaTeX Info: Redefining \th on input line 9.
 
-Overfull \hbox (1.21428pt too wide) in paragraph at lines 74--75
+Overfull \hbox (1.21428pt too wide) in paragraph at lines 76--77
 \T2A/cmr/m/n/12 application prospects in the field of high pulse power, but its
  wide electrical hysteresis leads to a decrease 
  []
 
 
-Overfull \hbox (4.37741pt too wide) in paragraph at lines 74--75
+Overfull \hbox (4.37741pt too wide) in paragraph at lines 76--77
 \T2A/cmr/m/n/12 in energy storage efficiency and an increase in heat loss, whic
 h affects the reliability of the device. Relaxor 
  []
 
 
-Overfull \hbox (10.35092pt too wide) in paragraph at lines 74--75
+Overfull \hbox (10.35092pt too wide) in paragraph at lines 76--77
 \T2A/cmr/m/n/12 and domain structure of different compositions on the polarizat
 ion behavior will be studied, the interaction 
  []
 
 
-Overfull \hbox (0.78613pt too wide) in paragraph at lines 80--81
+Overfull \hbox (0.78613pt too wide) in paragraph at lines 82--83
 []\T2A/cmr/m/n/12 1) ����-��-���� ���-��-��-���� ���-��� ��� ����-��� ��-��-��-
 ���-��-��� ��� ��-��-���-��-����-���-��-���-�� ���- 
  []
@@ -555,7 +573,7 @@ Overfull \hbox (0.78613pt too wide) in paragraph at lines 80--81
 <vch-logo.png, id=1, 71.0655pt x 21.1992pt>
 File: vch-logo.png Graphic file (type png)
 <use vch-logo.png>
-Package pdftex.def Info: vch-logo.png  used on input line 88.
+Package pdftex.def Info: vch-logo.png  used on input line 89.
 (pdftex.def)             Requested size: 71.13188pt x 21.21951pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -566,15 +584,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [1
 
-{C:/Users/admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./vch-logo.p
-ng>]
-Overfull \hbox (15.43433pt too wide) in paragraph at lines 143--143
+{C:/Users/Диана/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./vch-l
+ogo.png>]
+Overfull \hbox (15.43433pt too wide) in paragraph at lines 145--145
 \T2A/cmr/m/n/12 2 ((Work accepted)) A. B. Author 1, C. D. Author 2, Macromol. R
 apid Commun., DOI: 10.1002/marc.DOI.  
  []
 
 
-Overfull \hbox (24.96693pt too wide) in paragraph at lines 148--148
+Overfull \hbox (24.96693pt too wide) in paragraph at lines 150--150
 \T2A/cmr/m/n/12 7 ((Patents)) a) A. B. Author 1, C. D. Author 2 (Company), Coun
 try Patent Number, Year; b) W. Lehmann, 
  []
@@ -582,45 +600,45 @@ try Patent Number, Year; b) W. Lehmann,
 <placeholder-image.png, id=14, 284.5029pt x 284.5029pt>
 File: placeholder-image.png Graphic file (type png)
 <use placeholder-image.png>
-Package pdftex.def Info: placeholder-image.png  used on input line 161.
+Package pdftex.def Info: placeholder-image.png  used on input line 163.
 (pdftex.def)             Requested size: 542.02501pt x 542.02843pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 162.
+(Font)              <7> on input line 164.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 162.
+(Font)              <5> on input line 164.
 File: placeholder-image.png Graphic file (type png)
 <use placeholder-image.png>
-Package pdftex.def Info: placeholder-image.png  used on input line 167.
+Package pdftex.def Info: placeholder-image.png  used on input line 169.
 (pdftex.def)             Requested size: 542.02501pt x 542.02843pt.
 File: placeholder-image.png Graphic file (type png)
 <use placeholder-image.png>
-Package pdftex.def Info: placeholder-image.png  used on input line 173.
+Package pdftex.def Info: placeholder-image.png  used on input line 175.
 (pdftex.def)             Requested size: 542.02501pt x 542.02843pt.
 <bio-placeholder.jpg, id=15, 113.7048pt x 142.3719pt>
 File: bio-placeholder.jpg Graphic file (type jpg)
 <use bio-placeholder.jpg>
-Package pdftex.def Info: bio-placeholder.jpg  used on input line 197.
+Package pdftex.def Info: bio-placeholder.jpg  used on input line 199.
 (pdftex.def)             Requested size: 113.70451pt x 142.37154pt.
 File: bio-placeholder.jpg Graphic file (type jpg)
 <use bio-placeholder.jpg>
-Package pdftex.def Info: bio-placeholder.jpg  used on input line 202.
+Package pdftex.def Info: bio-placeholder.jpg  used on input line 204.
 (pdftex.def)             Requested size: 113.70451pt x 142.37154pt.
 File: bio-placeholder.jpg Graphic file (type jpg)
 <use bio-placeholder.jpg>
-Package pdftex.def Info: bio-placeholder.jpg  used on input line 207.
+Package pdftex.def Info: bio-placeholder.jpg  used on input line 209.
 (pdftex.def)             Requested size: 113.70451pt x 142.37154pt.
 File: bio-placeholder.jpg Graphic file (type jpg)
 <use bio-placeholder.jpg>
-Package pdftex.def Info: bio-placeholder.jpg  used on input line 212.
+Package pdftex.def Info: bio-placeholder.jpg  used on input line 214.
 (pdftex.def)             Requested size: 113.70451pt x 142.37154pt.
 <toc-image.png, id=16, 156.585pt x 142.3719pt>
 File: toc-image.png Graphic file (type png)
 <use toc-image.png>
-Package pdftex.def Info: toc-image.png  used on input line 224.
+Package pdftex.def Info: toc-image.png  used on input line 226.
 (pdftex.def)             Requested size: 156.58461pt x 142.37154pt.
 File: vch-logo.png Graphic file (type png)
 <use vch-logo.png>
-Package pdftex.def Info: vch-logo.png  used on input line 230.
+Package pdftex.def Info: vch-logo.png  used on input line 232.
 (pdftex.def)             Requested size: 71.13188pt x 21.21951pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -632,7 +650,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [2]
 File: vch-logo.png Graphic file (type png)
 <use vch-logo.png>
-Package pdftex.def Info: vch-logo.png  used on input line 230.
+Package pdftex.def Info: vch-logo.png  used on input line 232.
 (pdftex.def)             Requested size: 71.13188pt x 21.21951pt.
 
 
@@ -645,7 +663,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [3 <./placeholder-image.png (PNG copy)>]
 File: vch-logo.png Graphic file (type png)
 <use vch-logo.png>
-Package pdftex.def Info: vch-logo.png  used on input line 230.
+Package pdftex.def Info: vch-logo.png  used on input line 232.
 (pdftex.def)             Requested size: 71.13188pt x 21.21951pt.
 
 
@@ -658,7 +676,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [4]
 File: vch-logo.png Graphic file (type png)
 <use vch-logo.png>
-Package pdftex.def Info: vch-logo.png  used on input line 230.
+Package pdftex.def Info: vch-logo.png  used on input line 232.
 (pdftex.def)             Requested size: 71.13188pt x 21.21951pt.
 
 
@@ -671,7 +689,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [5]
 File: vch-logo.png Graphic file (type png)
 <use vch-logo.png>
-Package pdftex.def Info: vch-logo.png  used on input line 230.
+Package pdftex.def Info: vch-logo.png  used on input line 232.
 (pdftex.def)             Requested size: 71.13188pt x 21.21951pt.
 
 
@@ -684,7 +702,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [6 <./bio-placeholder.jpg>]
 File: vch-logo.png Graphic file (type png)
 <use vch-logo.png>
-Package pdftex.def Info: vch-logo.png  used on input line 230.
+Package pdftex.def Info: vch-logo.png  used on input line 232.
 (pdftex.def)             Requested size: 71.13188pt x 21.21951pt.
 
 
@@ -705,25 +723,26 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6318 strings out of 474485
- 112052 string characters out of 5743734
+ 6318 strings out of 474486
+ 112435 string characters out of 5741394
  1937542 words of memory out of 5000000
- 28534 multiletter control sequences out of 15000+600000
+ 28533 multiletter control sequences out of 15000+600000
  568652 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,15n,79p,1492b,420s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm07
-00.pk> <C:\Users\admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
-bx1000.pk> <C:\Users\admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
-0\labx1200.pk> <C:\Users\admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/d
-pi600\lasl1000.pk> <C:\Users\admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t
-2a/dpi600\larm1000.pk> <C:\Users\admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
-lh-t2a/dpi600\labx1440.pk> <C:\Users\admin\AppData\Local\MiKTeX\fonts/pk/ljfour
-/lh/lh-t2a/dpi600\larm0900.pk> <C:\Users\admin\AppData\Local\MiKTeX\fonts/pk/lj
-four/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\admin\AppData\Local\MiKTeX\fonts/p
-k/ljfour/lh/lh-t2a/dpi600\lati1200.pk> <C:\Users\admin\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/lh/lh-t2a/dpi600\larm2074.pk>
-Output written on template.pdf (7 pages, 138341 bytes).
+ 72i,16n,79p,1492b,420s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Диана\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
+arm0700.pk> <C:\Users\Диана\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
+/dpi600\labx1000.pk> <C:\Users\Диана\AppData\Local\MiKTeX\fonts/pk/ljfour/
+lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Диана\AppData\Local\MiKTeX\fonts/p
+k/ljfour/lh/lh-t2a/dpi600\lasl1000.pk> <C:\Users\Диана\AppData\Local\MiKTe
+X\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Диана\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Диана\A
+ppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0900.pk> <C:\Users\Д�
+�ана\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\
+Users\Диана\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1200
+.pk> <C:\Users\Диана\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600
+\larm2074.pk>
+Output written on template.pdf (7 pages, 138381 bytes).
 PDF statistics:
  403 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
