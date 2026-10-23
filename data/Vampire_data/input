@@ -1,0 +1,33 @@
+#---------------------------------------------------
+# Геометрия системы
+#---------------------------------------------------
+# Указываем VAMPIRE использовать пользовательскую ячейку
+material:unit-cell-file=Ti2O3.ucf
+
+# Размеры моделируемого образца (в нанометрах)
+dimensions:system-size-x=10 !nm
+dimensions:system-size-y=10 !nm
+dimensions:system-size-z=10 !nm
+
+# Путь к файлу материалов
+material:file=Ti2O3.mat
+
+# Граничные условия (например, периодические по всем осям)
+create:periodic-boundaries-x
+create:periodic-boundaries-y
+create:periodic-boundaries-z
+
+# Использование алгоритма Монте-Карло (он быстрее для термодинамики, чем LLG)
+sim:integrator=monte-carlo
+
+# Тип эксперимента
+sim:program=curie-temperature
+
+# Параметры температурного сканирования
+sim:minimum-temperature=0
+sim:maximum-temperature=600  # Экспериментальная T_N для Ti2O3 около 400-500K
+sim:temperature-increment=10  # Шаг изменения температуры
+
+# Шаги Монте-Карло для каждой температурной точки
+sim:equilibration-time-steps=10000  # Время на выход в равновесие
+sim:loop-time-steps=10000           # Время на сбор статистики намагниченности

@@ -1,0 +1,30 @@
+#===================================================
+# Количество материалов
+#===================================================
+material:num-materials=3
+
+#---------------------------------------------------
+# Материал 1 - Титан А (Спин вверх)
+#---------------------------------------------------
+material[1]:material-name=Ti_A
+material[1]:unit-cell-category=1
+material[1]:atomic-spin-moment=1.00 ! muB
+material[1]:damping-constant=1.0
+material[1]:material-element=Ti
+
+#---------------------------------------------------
+# Материал 2 - Титан B (Спин вниз)
+#---------------------------------------------------
+material[2]:material-name=Ti_B
+material[2]:unit-cell-category=2
+material[2]:atomic-spin-moment=1.00 ! muB
+material[2]:damping-constant=1.0
+material[2]:material-element=V # Используем другой элемент для цвета при визуализации
+
+#---------------------------------------------------
+# Материал 3 - Кислород (Немагнитный)
+#---------------------------------------------------
+material[3]:material-name=O
+material[3]:unit-cell-category=3
+material[3]:non-magnetic=remove   # Исключаем из спиновой динамики
+material[3]:material-element=O

@@ -1,0 +1,4 @@
+vampire-serial
+Если не сработало:
+which vampire-serial
+chmod +x /путь/к/vampire-serial

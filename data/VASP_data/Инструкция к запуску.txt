@@ -1,0 +1,7 @@
+module avail vasp
+module load vasp/6.3.0  # (подставьте вашу версию)
+module show vasp/6.3.0  # или module display
+
+Внимательно изучите текстовый вывод. Очень часто в описании модуля админы прописывают переменные среды вроде VASP_PP_PATH, VASP_PSP_DIR или PSEUDOPOTENTIAL_DIR. Путь, указанный напротив них (например, /opt/software/vasp/potpaw_PBE), и есть то, что вам нужно.
+
+cat /путь_к_базе_VASP/POTCAR_Ti /путь_к_базе_VASP/POTCAR_O > POTCAR
